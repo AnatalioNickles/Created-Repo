@@ -30,7 +30,6 @@ public class Practice {
 			else {
 				return false;
 		}
-		
 			
 	}
 
@@ -38,6 +37,7 @@ public class Practice {
 		String word="pop";
 		
 		System.out.println(word+ " is a palindrome (T/F): "+isPal(word));
+		
 
 		
 	}
